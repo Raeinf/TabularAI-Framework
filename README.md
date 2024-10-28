@@ -8,7 +8,6 @@ This repository provides a comprehensive framework for analyzing tabular data us
 ```plaintext
 ├── input
 │   └── data files and datasets (place your datasets here)
-│   └──main.ipynb
 ├── working
-│   └── notebooks and scripts (outputs, temp files, or work-in-progress items)
+│   └── main.ipynb
 ├── requirements.txt
